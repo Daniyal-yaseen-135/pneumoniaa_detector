@@ -11,5 +11,5 @@ Open **Command Prompt (CMD)**
 Go to the folder where `app.py` is located:
 
 wirte : cd your/folder/path 
-       streamlit run app.py
+streamlit run app.py
 
