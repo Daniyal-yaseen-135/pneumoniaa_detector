@@ -8,6 +8,7 @@ A simple Streamlit app is included so you can upload an image and get a predicti
 Open **Command Prompt (CMD)**
 Go to the folder where `app.py` is located:
 
-wirte : cd your/folder/path  (pres enter)
-streamlit run app.py
+```bash
+cd your/folder/path   # press Enter
 
+streamlit run app.py  # press Enter
